@@ -38,19 +38,31 @@ https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week/
 ## I'm a Full-stack developer and data science aspirant based in Coimbatore, India.
 
 <br/>
+<h2>Tech Stack</h2> 
 <p align="center">
-    <p align="left">
-    <h1>Skills</h1>  
-    <h3>NodeJS/NestJs</h3>
-    <h3>Python/Flask</h3>
-    <h3>JavaScript/JQuery</h3>
-    <h3>TypeScript/Angular</h3>
-    <h3>PostgreSQL/MySQL</h3>
-    <h3>AWS/Heroku</h3>
-    <h3>HTML</h3>
-    <h3>CSS/Bootstrap</h3>
-    </p>
-    <img src="code.gif" align="right">
+    <img src="https://img.shields.io/badge/-typescript-black?&style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/java%20-%23D00000.svg?&style=for-the-badge&logo=java&logoColor=white"/>    
+    <img src="https://img.shields.io/badge/jquery%20-%23007ACC.svg?&style=for-the-badge&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black&labelColor=%2300000"/>
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/git%20-%23FF6F00.svg?&style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/-AWS-black?style=for-the-badge&logo=amazon">
+    <img src="https://img.shields.io/badge/-Heroku-blueviolet?style=for-the-badge&logo=heroku">
+    <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/-scss-ff69b4.svg?&style=for-the-badge&logo=sass&logoColor=white">
+</p>
+<p align="center">
+    <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge&logo=angular&color=de0218">
+    <img src="https://img.shields.io/badge/-bootstrap-violet?&style=for-the-badge&logo=bootstrap&logoColor=white&color=440166">
+    <img src="https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=flask">
+    <img src="https://img.shields.io/badge/-Nestjs-red?style=for-the-badge&logo=nestjs&color=de0218">
+    <img src="https://img.shields.io/badge/mysql%20-%2314354C.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql">
+</p>
 </p>
 <br/>
 <br/>
@@ -60,7 +72,7 @@ https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha4501&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a align="center">
+<p align="center">
 
 <a align="left">
 
@@ -71,12 +83,4 @@ https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week/
 ![Amirtha's github stats](https://github-readme-stats.vercel.app/api?username=amirtha4501&show_icons=true&theme=radical)
 </a>
 
-</a>
-
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha4501&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Amirtha's github stats](https://github-readme-stats.vercel.app/api?username=amirtha4501&show_icons=true&theme=radical)
- -->
+</p>
