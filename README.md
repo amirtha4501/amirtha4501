@@ -5,10 +5,6 @@ https://github.com/matiassingers/awesome-readme
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
 https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week/
-
-<img src="cat-explorer.svg" width="200px">
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
  -->
 
 <a onMouseOver="this.style.transform=(-20deg)">
@@ -38,7 +34,8 @@ https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week/
 ## I'm a Full-stack developer and data science aspirant based in Coimbatore, India.
 
 <br/>
-<h2>Tech Stack</h2> 
+
+# Tech Stack 🖥️  
 <p align="center">
     <img src="https://img.shields.io/badge/-typescript-black?&style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -67,20 +64,29 @@ https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week/
 <br/>
 <br/>
 
+## Goals 20-21🎳
+ 
+<img align="center" src="tensorflow.svg" width="25"> &nbsp;
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25"> &nbsp;
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" width="25"> &nbsp;
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="25"> &nbsp;
+<img align="center" src="react.svg" width="25"> &nbsp;
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" width="25"> &nbsp;
+
+<br/>
 
 # Stats <img src="stats.png" width="25"> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Visitors Badge](https://badges.pufler.dev/visits/amirtha4501/amirtha4501)](https://amirtha4501.ml)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha4501&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha4501&show_icons=true&theme=radical&layout=compact">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirtha4501&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=amirtha4501&show_icons=true&theme=radical">
+</p>
 
-<a align="left">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amirtha4501&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-<a align="right">
-
-![Amirtha's github stats](https://github-readme-stats.vercel.app/api?username=amirtha4501&show_icons=true&theme=radical)
+<br/>
+<a href="https://docs.google.com/gview?url=https://github.com/amirtha4501/Portfolio/raw/master/Resume7_13072020.pdf&embedded=true">
+    <img src="https://img.shields.io/badge/-resume-blueviolet?style=for-the-badge&logo=resume">
 </a>
 
-</p>
+### Like this ?, support and encourage ❤️ me by giving a 🌟
