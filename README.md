@@ -31,7 +31,7 @@ https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week/
 
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-## I'm a Full-stack developer and data science aspirant based in Coimbatore, India.
+## A dedicated Full-Stack developer who loves to blend the art of design with the skill of programming to deliver an aesthetic and engaging user experience.
 
 <br/>
 
