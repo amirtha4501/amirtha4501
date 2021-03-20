@@ -77,15 +77,17 @@ https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week/
 
 # Stats <img src="stats.png" width="25"> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Visitors Badge](https://badges.pufler.dev/visits/amirtha4501/amirtha4501)](https://amirtha4501.ml)
 
-
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha4501&show_icons=true&theme=radical&layout=compact">
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha4501&show_icons=true&theme=radical&layout=compact">
+</p>
+<p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirtha4501&theme=dark">
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=amirtha4501&show_icons=true&theme=radical">
 </p>
 
 <br/>
-<a href="https://docs.google.com/gview?url=https://github.com/amirtha4501/Portfolio/raw/master/Resume7_13072020.pdf&embedded=true">
+<a href="https://docs.google.com/gview?url=https://github.com/amirtha4501/Portfolio/raw/master/AmirthaResume.pdf&embedded=true">
     <img src="https://img.shields.io/badge/-resume-blueviolet?style=for-the-badge&logo=resume">
 </a>
 
