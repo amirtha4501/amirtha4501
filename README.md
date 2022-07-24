@@ -64,7 +64,7 @@ https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week/
 <br/>
 <br/>
 
-## Goals 20-21🎳
+## Goals 2022🎳
  
 <img align="center" src="tensorflow.svg" width="25"> &nbsp;
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25"> &nbsp;
@@ -75,7 +75,7 @@ https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week/
 
 <br/>
 
-# Stats <img src="stats.png" width="25"> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Visitors Badge](https://badges.pufler.dev/visits/amirtha4501/amirtha4501)](https://amirtha4501.ml)
+# Stats <img src="stats.png" width="25"> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Visitors Badge](https://badges.pufler.dev/visits/amirtha4501/amirtha4501)](https://amirtha.tech)
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha4501&show_icons=true&theme=radical&layout=compact">
