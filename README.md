@@ -75,7 +75,8 @@ https://froala.com/blog/social/how-to-get-up-to-3500-github-stars-in-one-week/
 
 <br/>
 
-# Stats <img src="stats.png" width="25"> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Visitors Badge](https://badges.pufler.dev/visits/amirtha4501/amirtha4501)](https://github.com/amirtha4501)
+# Stats <img src="stats.png" width="25"> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<!-- [![Visitors Badge](https://badges.pufler.dev/visits/amirtha4501/amirtha4501)](https://github.com/amirtha4501) -->
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirtha4501&show_icons=true&theme=radical&layout=compact">
